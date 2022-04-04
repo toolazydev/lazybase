@@ -17,6 +17,7 @@ Lazybase is an easy to use backend with lots of useful functionality that works 
 ## Features
 
 - [ ] 🖥 Dashboard to setup w/o touching code!
+- [ ] 👨‍💻 Javascript client
 - [ ] 📝 Entity based
   - [ ] Rich entity lifecycle! Customizable to fit even complex cases
   - [ ] Automatic CRUDs

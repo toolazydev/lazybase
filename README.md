@@ -14,9 +14,10 @@ Lazybase is an easy to use backend with lots of useful functionality that works 
 
 **NOT** production ready \*yet\*. It will be. Someday.
 
-# Features
+## Features
 
 - [ ] 🖥 Dashboard to setup w/o touching code!
+- [ ] 👨‍💻 Javascript client
 - [ ] 📝 Entity based
   - [ ] Rich entity lifecycle! Customizable to fit even complex cases
   - [ ] Automatic CRUDs
@@ -39,3 +40,7 @@ Lazybase is an easy to use backend with lots of useful functionality that works 
   - [ ] iOS
 - [ ] 🏖 Strongly typed (autocomplete ftw)
 - [ ] 🏢 Deploy with ease using our `Dockerfile`
+
+## License
+
+MIT ❤️ Open Source! If you plan to build weapons or any damaging technology using open source, fuck you and you are not authorized to use any of the code present in this repo

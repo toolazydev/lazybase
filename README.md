@@ -43,16 +43,10 @@ Lazybase is an easy to use backend with lots of useful functionality that works 
 
 ## Development
 
-Running docs:
+Docs are generated using `docsify`. To run the development version:
 
 ```sh
-  yarn run docs
-```
-
-or
-
-```sh
-  docsify serve -p 3040 ./docs
+  yarn run docs # assuming you have docsify-cli installed globally
 ```
 
 ## License

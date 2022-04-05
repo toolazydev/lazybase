@@ -1,5 +1,5 @@
 <p align="center">
-<img width="250" src="https://raw.githubusercontent.com/toolazydev/lazybase/master/meta/lazydev.png"/>
+<img width="275" src="https://raw.githubusercontent.com/toolazydev/lazybase/master/meta/lazydev.png"/>
 </p>
 
 ---
@@ -40,20 +40,6 @@ Lazybase is an easy to use backend with lots of useful functionality that works 
   - [ ] iOS
 - [ ] 🏖 Strongly typed (autocomplete ftw)
 - [ ] 🏢 Deploy with ease using our `Dockerfile`
-
-## Development
-
-Running docs:
-
-```sh
-  yarn run docs
-```
-
-or
-
-```sh
-  docsify serve -p 3040 ./docs
-```
 
 ## License
 
